@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>icon-info@3x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Source-Link---Hover" transform="translate(0.000000, -1.000000)">
+            <g id="Group">
+                <g id="Info-icon" transform="translate(0.000000, 1.000000)">
+                    <g id="Group">
+                        <g id="component/close" stroke="#582C83" stroke-width="2.14285714">
+                            <circle id="62bb46-Oval" cx="10" cy="10" r="8.92857143"></circle>
+                        </g>
+                        <g id="Group-2" transform="translate(8.928571, 5.714286)" fill="#582C83">
+                            <path d="M1.07831341,0 C0.426726558,0 0,0.462159081 0,1.07296326 C0,1.67105148 0.414293735,2.14285714 1.05304671,2.14285714 L1.06574691,2.14285714 C1.72936552,2.14285714 2.14285714,1.66929755 2.14285714,1.07106317 C2.13002326,0.461282119 1.72936552,0 1.07831341,0" id="Fill-1"></path>
+                            <polygon id="Fill-3" points="0 9.28571429 2.14285714 9.28571429 2.14285714 3.57142857 0 3.57142857"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
